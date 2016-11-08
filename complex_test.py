@@ -1,4 +1,4 @@
-#writting this code into the module complex_tex.py
+# writting this code into the module complex_tex.py
 
 from complex import Complex
 
